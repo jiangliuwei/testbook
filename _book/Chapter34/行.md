@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# hahaha
-=======
 # Introduction
 
 ```
@@ -21,4 +18,3 @@ email: hfpp2012@gmail.com
 qq: 903279182
 ```
 
->>>>>>> hah
